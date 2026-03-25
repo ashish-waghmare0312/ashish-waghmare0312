@@ -1,17 +1,17 @@
-## Hi there 👋
+Hey, I'm Ashish 👋
+BE student in Automation & Robotics at VESIT, Mumbai. I'm into machine learning and building systems that actually do something useful - currently learning the fundamentals and working on projects at the intersection of ML and robotics/automation.
 
-<!--
-**ashish-waghmare0312/ashish-waghmare0312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm working on
 
-Here are some ideas to get you started:
+📐 Getting solid at ML fundamentals - linear algebra, probability, and writing clean Python
+🤖 Exploring how ML fits into automation and robotics systems
+🔧 Building projects that combine sensor data, automation, and intelligent decision-making
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...![Ashish](https://github.com/user-attachments/assets/d02349cf-3882-4aad-9ea3-c83d4b3058ae)
+Currently learning
+Machine Learning Fundamentals
+├── Mathematics (Linear Algebra, Probability & Stats)
+├── Python for ML (NumPy, Pandas, Matplotlib)
+├── Core Algorithms (Regression, Classification, Clustering)
+└── Projects (applying as I go)
 
--->
+Always building, always questioning.
